@@ -1,4 +1,4 @@
-CMPUT 511: Project - Point Cloud Normal Vector Estimation
+# CMPUT 511: Project - Point Cloud Normal Vector Estimation
 **Bernard Llanos**
 
 **December 8, 2017**
