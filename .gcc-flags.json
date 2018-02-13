@@ -1,0 +1,4 @@
+{
+  "gccDefaultCppFlags": "-Wall -std=c++11",
+  "gccIncludePaths": ".,/usr/include,/usr/include/eigen3",
+}

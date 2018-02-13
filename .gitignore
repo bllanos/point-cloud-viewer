@@ -1,0 +1,6 @@
+*~
+*.o
+*.kate-swp
+*.gch
+
+pointCloudViewer
